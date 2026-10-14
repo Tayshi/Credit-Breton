@@ -1,0 +1,3 @@
+*.pbix.bak
+data/raw/*
+.vscode/
