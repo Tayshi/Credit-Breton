@@ -19,4 +19,5 @@ Les données exploitées sont présent dans */data* en fichier Excel *.xlsx*
 
 ## Installation
 Télécharger tout le dépôt. Si les données ne sont pas présent au lancement du fichier Power BI *.pbix*, onglet **Accueil** -> section **Données** -> **Obtenir les données** -> **Classeur Excel**
-![Image lier les données au Power BI](/docs/Capture%20d'écran%202026-10-14%20173823.png)
+
+![Image lier les données au Power BI](/docs/Capture%20d'écran%202026-10-14%20183427.png)
